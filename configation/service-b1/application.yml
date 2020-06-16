@@ -1,6 +1,6 @@
 config:
   server:
-    service-a1-key: Hello from Config Server - Services b1
+    service-b1-key: Hello from Config Server - Services b1
 processstart: 21
 processstop: 22
 rate: 23
