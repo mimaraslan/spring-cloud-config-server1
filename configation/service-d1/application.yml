@@ -1,7 +1,7 @@
 config:
   server:
     service-d1-key: Hello from Config Server - Services d1
-processstart: 41
-processstop: 42
-rate: 43
-price: 44    
+processstart: 441
+processstop: 442
+rate: 443
+price: 444    

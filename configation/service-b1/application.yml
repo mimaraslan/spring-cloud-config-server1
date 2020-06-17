@@ -1,7 +1,7 @@
 config:
   server:
     service-b1-key: Hello from Config Server - Services b1
-processstart: 21
-processstop: 22
-rate: 23
-price: 24    
+processstart: 221
+processstop: 222
+rate: 223
+price: 224    
