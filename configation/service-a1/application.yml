@@ -1,7 +1,7 @@
 config:
   server:
     service-a1-key: Hello from Config Server - Services a1
-processstart: 11
-processstop: 12
-rate: 13
-price: 14
+processstart: 111
+processstop: 112
+rate: 113
+price: 114
