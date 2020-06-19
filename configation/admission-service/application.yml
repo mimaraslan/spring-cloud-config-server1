@@ -1,0 +1,8 @@
+spring:
+  data:
+    cassandra:
+      keyspace-name: admission_service
+      port: 9042
+      contact-points: localhost
+      username: cassandra
+      password: cassandra
