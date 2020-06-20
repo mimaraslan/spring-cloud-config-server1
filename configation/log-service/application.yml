@@ -4,5 +4,5 @@ spring:
       keyspace-name: log_service
       port: 9042
       contact-points: localhost
-      username: cassandra
-      password: cassandra
+#      username: cassandra
+#      password: cassandra
