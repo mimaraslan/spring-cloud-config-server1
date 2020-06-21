@@ -5,3 +5,6 @@ processstart: 221
 processstop: 222
 rate: 223
 price: 224    
+
+app:
+  id: ${random.uuid}

@@ -6,9 +6,5 @@ processstop: 442
 rate: 443
 price: 444    
 
-
-spring:
-  cloud:
-    config:
-      uri:
-      - http://localhost:8888  
+app:
+  id: ${random.uuid} 
